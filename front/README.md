@@ -2,7 +2,7 @@
 
 
 ## Description:
-Populate subjects from BE part into dropdown menu and byu selecting corresponding value, displaying result from BE.
+Populate subjects from BE part into dropdown menu and by selecting corresponding value, displaying result from BE. All is done with hooks
 
 
 ## Used:
