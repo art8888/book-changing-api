@@ -14,6 +14,8 @@
   "author": "Adapt A/S",
   "license": "ISC",
   "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
     "json-server": "^0.16.3"
   }
 }
